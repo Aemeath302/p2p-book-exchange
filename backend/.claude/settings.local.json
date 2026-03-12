@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/28891/Claude/projects/c--Users-28891-Desktop-159333-Peer-to-Peer-Book-Exchange-group1/memory/**)",
+      "Read(//c/Users/28891/Desktop/159333-Peer-to-Peer-Book-Exchange-group1/**)"
+    ]
+  }
+}
